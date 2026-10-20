@@ -313,10 +313,4 @@ This repository is intended to demonstrate my understanding of incident response
 
 ---
 
-## Contact
-
-For professional or academic enquiries, connect with me through my GitHub profile.
-
----
-
 <p align="center"><strong>Completed Incident Response Planning Project</strong></p>
